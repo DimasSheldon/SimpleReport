@@ -1,0 +1,10 @@
+ +----------------------------------------------------------------------------------------------------------------------------------+
+1 RETENSI   : RA.1B/6B/2T                     LAPORAN TRANSAKSI EFT SWITCHING ATM-PAYMENT                       FREKWENSI :   HARIAN
+  LAPORAN   : PI02                            ACQUIRER: BC-BANK CENTRAL ASIA                                    TANGGAL   : 17-12-23
+                                                                                                                HALAMAN   :        1
+0+----------------------------------------------------------------------------------------------------------------------------------+
+   NO.    TANGGAL   JAM     TX-CD  TYPE    NO-KARTU                         AMOUNT                        AUTH-RESP         TRACE-NO
+          REF-NO                           TERM-ID               MCC - MERCHANT-ID      MERCHANT                   
+          RCODE
+ +----------------------------------------------------------------------------------------------------------------------------------+
+
